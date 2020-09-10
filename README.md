@@ -5,5 +5,7 @@
 3.查看每条学习任务对应的学习笔记，修改删除  
 ### 功能实现：  
 fronted文件夹为前端代码， 其余为后端代码，前端由vue框架实现，后端由python + django + MySQL实现 
+#### 图片
+![Image text](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/首页.png)
 
 
