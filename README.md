@@ -6,6 +6,10 @@
 ### 功能实现：  
 fronted文件夹为前端代码， 其余为后端代码，前端由vue框架实现，后端由python + django + MySQL实现 
 #### 图片
-![Image text](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/首页.png)
+![Image](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/首页.png)  
+![Image](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/登录注册.png)  
+![Image](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/查看现有学习任务.png)  
+![Image](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/新增学习记录.png)  
+![Image](https://github.com/CocoYu319/Learning_Log/blob/master/gitPic/查看.png)
 
 
